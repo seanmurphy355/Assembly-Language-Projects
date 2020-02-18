@@ -4,6 +4,7 @@ This repository holds an example project using Assembly Language.
 ### Built With
 * [Microsoft Visual Studio](https://visualstudio.microsoft.com/pl/) - IDE
 * [Assembly Language](https://en.wikipedia.org/wiki/Assembly_language) - Low-level programming language
+* [x86 MASM](https://en.wikipedia.org/wiki/Microsoft_Macro_Assembler) - X86 MASM
 
 ## What is Assembly Language?
 Assembly language is a low-level programing language that is utlized by specific types of processors. Code written in assembly language is converted into machine code by the assembler during runtime. Programming languages are classified into three categories 1.High level language(C,C++,Java), 2. Assembly language and 3. Machine language (binary digits or bits). The advantages of coding in a lower level language such as Assembly consist of faster speeds, performance manipulation, easy to correct errors, easy insertion or deletion, ability to access machine dependent registers and much more.
