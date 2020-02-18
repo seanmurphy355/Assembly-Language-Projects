@@ -11,12 +11,12 @@ Assembly language is a low-level programing language that is utlized by specific
 
 #### Basic Assembly Language Commands
 
--MOV - move data from one location to another
--ADD - add two values
--SUB - subtract a value from another value
--PUSH - push data onto a stack
--POP - pop data from a stack
--JMP - jump to another location
+*MOV - move data from one location to another
+*ADD - add two values
+*SUB - subtract a value from another value
+*PUSH - push data onto a stack
+*POP - pop data from a stack
+*JMP - jump to another location
 
 
 ### Project Description
