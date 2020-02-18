@@ -7,7 +7,7 @@ This repository holds an example project using Assembly Language.
 
 ## What is Assembly Language?
 
-### Basic Assembly Language Commands
+#### Basic Assembly Language Commands
 ~~~sh
 MOV - move data from one location to another
 ADD - add two values
