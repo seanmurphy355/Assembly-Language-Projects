@@ -24,10 +24,11 @@ Implement and test of ReadVal and WriteVal procedures for none negative integers
 
 ## objectives
 * Designing, implementing, and calling low-level I/O procedures
-* Implementing and using a macro
+* Implementing and using a macros
 
 
 ### Example Output
+
 
 ### Contributor
 
