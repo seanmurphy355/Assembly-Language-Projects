@@ -1,4 +1,4 @@
-# Assembly-Language-Projects
+# Assembly-Language-Project
 This repository holds an example project using Assembly Language.
 
 ### Built With
