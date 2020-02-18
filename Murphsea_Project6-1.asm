@@ -1,7 +1,6 @@
 TITLE Project Six Cs271 Introduction to MASM  (Masam.asm)
 ; Author: Sean Murphy
 ; Last Modified: 12/02/19
-; Course / Project Number : CS_271, Program #6 A
 ; OSU email address: Murphsea@oregonstate.edu
 ; Due Date:12/08/19
 ; Discrption: This program will take in a unsigned integer value and readval will accpet a numeric string of some sort to do this
@@ -88,7 +87,7 @@ main PROC
 	ReadInVals:; read in user numeric strings
 	push    LoopHolder 
     push    OFFSET UserList  ;push Ref to user list                                  
-    call    ReadVal  ; Read in a user string and then It will convert the digit string to numeric, while validating the user’s input
+    call    ReadVal  ; Read in a user string and then It will convert the digit string to numeric, while validating the userâ€™s input
     inc     LoopHolder
 	loop	ReadInVals
 
@@ -153,7 +152,7 @@ introduction	PROC
 introduction	ENDP
 
 
-;ReadVal will invoke the getString macro to get the user’s string of digits. It will then convert the digit string to numeric, while validating the user’s input.
+;ReadVal will invoke the getString macro to get the userâ€™s string of digits. It will then convert the digit string to numeric, while validating the userâ€™s input.
 ;This Procedure will also carry out any data validation that is required returns a numnber	and contains no pre or post conditions other then
 ;all other calls excute fine before this call...returns a filled user array to the stack as uses the input that user gives as a string parameter it changes the eax,edx,ebx,esi,eax,ecx registers
 ReadVal PROC
