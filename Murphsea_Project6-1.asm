@@ -1,4 +1,4 @@
-TITLE Project Six Cs271 Introduction to MASM  (Masam.asm)
+TITLE Project MASM Conversion  (Masam.asm)
 ; Author: Sean Murphy
 ; Last Modified: 12/02/19
 ; OSU email address: Murphsea@oregonstate.edu
