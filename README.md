@@ -6,7 +6,7 @@ This repository holds an example project using Assembly Language.
 * [Assembly Language](https://en.wikipedia.org/wiki/Assembly_language) - Low-level programming language
 
 ## What is Assembly Language?
-Assembly language is a low-level programing language that targets specifc types of processors. Code written is assembly language is converted into machine code by an assmbler at run time.
+Assembly language is a low-level programing language that targets specifc types of processors. Code written in assembly language is converted into machine code by an assmbler during run time(excution of a program).
 #### Basic Assembly Language Commands
 ~~~sh
 MOV - move data from one location to another
