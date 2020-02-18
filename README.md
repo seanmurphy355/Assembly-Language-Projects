@@ -1,5 +1,5 @@
 # Assembly-Language-Project
-This repository holds an example project using Assembly Language.
+This repository holds an example assembly language project.
 
 ### Built With
 * [Microsoft Visual Studio](https://visualstudio.microsoft.com/pl/) - IDE
