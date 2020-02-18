@@ -22,7 +22,7 @@ Assembly language is a low-level programing language that is utlized by specific
 ### Project Description
 Implement and test of ReadVal and WriteVal procedures for none negative integers. ReadVal implementation will accept a numeric string input from the keyboard and will compute the corresponding integer value. For example, if the user entered a string "1234" then the numeric value 1234 would be computed (and stored in the requested OFFSET). WriteVal will perform the opposite transformation. For example, WriteVal can accept a 32 bit unsigned int and display the corresponding ASCII representation on the console (e.g. if WriteVal receives the value 49858 then the text "49858" will be displayed on the screen this value will no longer be read as an int).
 
-### objectives
+### Objectives
 * Designing, implementing, and calling low-level I/O procedures
 * Implementing and using a macros
 
