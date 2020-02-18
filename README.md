@@ -6,7 +6,7 @@ This repository holds an example project using Assembly Language.
 * [Assembly Language](https://en.wikipedia.org/wiki/Assembly_language) - Low-level programming language
 
 ## What is Assembly Language?
-Assembly language is a low-level programing language that targets specific types of processors. Code written in assembly language is converted into machine code by the assembler during run time. Programming languages are mainly classified into three categories 1.High level language(ex: C,C++,Java,etc), 2. Assembly language and 3. Machine language (ex:binary digits or bits). The advantages of coding in a lower level language such as Assembly consist of: Faster speeds, Performance manipulation, easy to correct errors, easy insertion or deletion, ability to access machine dependent registers and much more.
+Assembly language is a low-level programing language that utlized by specific types of processors. Code written in assembly language is converted into machine code by the assembler during runtime. Programming languages are classified into three categories 1.High level language(C,C++,Java), 2. Assembly language and 3. Machine language (binary digits or bits). The advantages of coding in a lower level language such as Assembly consist of faster speeds, performance manipulation, easy to correct errors, easy insertion or deletion, ability to access machine dependent registers and much more.
 
 #### Basic Assembly Language Commands
 ~~~sh
