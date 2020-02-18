@@ -6,10 +6,9 @@ This repository holds an example project using Assembly Language.
 * [Assembly Language](https://en.wikipedia.org/wiki/Assembly_language) - Low-level programming language
 
 ## What is Assembly Language?
-
-
-~~~sh
+Assembly language is a low-level programing language that targets specifc types of processors. Code written is assembly language is converted into machine code by an assmbler at run time.
 #### Basic Assembly Language Commands
+~~~sh
 MOV - move data from one location to another
 ADD - add two values
 SUB - subtract a value from another value
