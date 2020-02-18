@@ -27,9 +27,6 @@ Implement and test of ReadVal and WriteVal procedures for none negative integers
 * Implementing and using a macros
 
 
-### Example Output
-
-
 ### Contributor
 
 * **Sean Murphy** - [SeanMurphy355](https://github.com/Seanmurphy355)
